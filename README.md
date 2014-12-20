@@ -2,9 +2,10 @@
 
 This repository contains the average of windowed mean and standard deviation on human activity measurements for each combination of subject and activity.
 
-### Explanation of Files.
+### Explanation of Files
 
 This project contains the following files.
+
 1. run_analysis.R: the R script that performs cleaning of data. The script is supposed to run at the directory right above the test and train directories.
 2. features_mean_std.txt: contains the tidied names of variables.
 3. Averaged_Activity.txt: contains the tidied dataset. For definition of each column, please refer to CodeBook.md, section "Variables in the Tidied Dataset".
